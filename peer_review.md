@@ -1,6 +1,6 @@
 # Peer Review
 
-**Reviewed Notebook:** [Final Project – Regression Analysis by Blessing Aganaga](https://github.com/BlessingAganaga/ml_regression_blessing/blob/main/regression_final_project.ipynb)  
+**Reviewed Notebook:** [Final Project – Regression Analysis by Blessing Aganaga](https://github.com/teflxndxn/ml_regression_blessing/blob/main/notebooks/regression_blessing.ipynb)  
 
 
 ## 1. Clarity & Organization
